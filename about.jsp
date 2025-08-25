@@ -1,5 +1,6 @@
 <html>
     <body>
-        <h1>This is about.jsp file</h1>
+        <h1>Address</h1>
+        <p>Gopalaswamy temple,warangal</p>
     </body>
 </html>
